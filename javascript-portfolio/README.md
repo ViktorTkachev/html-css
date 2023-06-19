@@ -2,6 +2,7 @@
 
 Added Jest to the project and wrote automated tests, that achieve 100% code coverage.
 Examples:
+
 - [Count Price Books](https://github.com/ViktorTkachev/ajs-test/blob/main/test/test.js);
 - [Check Indication of Character health](https://github.com/ViktorTkachev/ajs-hw-clear_functions/blob/main/src/__tests__/health-indication-test.js);
 - [Sorting Heroes by their Health](https://github.com/ViktorTkachev/ajs-hw-matchers/blob/main/src/__tests__/heroes-life-test.js);
@@ -15,4 +16,4 @@ Examples:
 
 Appveyor is connected to each project and a testing status badge is displayed:
 
-![Layout]()
+![Layout](./img/appveyor-01.png) ![Layout](./img/appveyor-02.png)
