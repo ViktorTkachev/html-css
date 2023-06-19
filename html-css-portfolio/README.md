@@ -6,4 +6,3 @@
 The mock-up designs of the website for different screens look like this:
 
 ![Layout](img/layouts.jpg)
-
