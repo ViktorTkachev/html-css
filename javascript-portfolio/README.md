@@ -16,4 +16,7 @@ Examples:
 
 Appveyor is connected to each project and a testing status badge is displayed:
 
-![Layout](./img/appveyor-01.png) ![Layout](./img/appveyor-02.png)
+<div>
+  <img src="./img/appveyor-01.png" height="435"/>
+  <img src="./img/appveyor-02.png" height="435"/>
+</div>
