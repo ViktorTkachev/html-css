@@ -1,4 +1,4 @@
-## JS unit tests
+## JS unit tests with Appveyor
 
 Added Jest to the project and wrote automated tests, that achieve 100% code coverage.
 Examples:
