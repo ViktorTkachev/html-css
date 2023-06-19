@@ -13,4 +13,6 @@ Examples:
 - [Check Adding characters to the team](https://github.com/ViktorTkachev/ajs-hw-set/blob/main/src/js/__tests__/app-test.js);
 - [Mock function](https://github.com/ViktorTkachev/ajs-hw-promises/blob/main/src/js/__tests__/GameSavingLoader_reject-test.js) / [All functional](https://github.com/ViktorTkachev/ajs-hw-promises/tree/main/src/js/__tests__);
 
+Appveyor is connected to each project and a testing status badge is displayed:
 
+![Layout]()
